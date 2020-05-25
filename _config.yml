@@ -1,11 +1,11 @@
 # Site settings
-author: korey ko.
-title: 
+author: Korey K Kendrick
+title: the road to be full stack developer 
 header-img: img/home-bg.png
 email: koreykendrick1@gmail.com
-copyright_name: korey ko.
+copyright_name: Korey K Kendrick
 description: > # this means to ignore newlines until "baseurl:"
-  
+  fullstack
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  learncbrainy-loop8787
